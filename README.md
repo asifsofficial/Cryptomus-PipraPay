@@ -90,4 +90,4 @@ This gateway implements robust security measures:
 
 ---
 
-Developed with ❤️ by **iPayees Team** for the **PipraPay** community.
+Developed with ❤️ by **[iPayees Team](https://github.com/asifsofficial)** for the **PipraPay** community.
