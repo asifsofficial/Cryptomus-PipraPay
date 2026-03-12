@@ -3,6 +3,7 @@
 [![PipraPay](https://img.shields.io/badge/Platform-PipraPay-blue.svg)](https://piprapay.com)
 [![Cryptomus](https://img.shields.io/badge/Payment-Cryptomus-purple.svg)](https://cryptomus.com)
 [![PHP](https://img.shields.io/badge/PHP-%3E%3D%207.4-777bb4.svg)](https://php.net)
+[![License](https://img.shields.io/badge/License-AGPL%20v3-orange.svg)](LICENSE)
 
 A professional, high-performance integration for accepting cryptocurrency payments via the **Cryptomus** API on the **PipraPay** platform. This gateway allows merchants to accept 20+ cryptocurrencies with real-time conversion and automated verification.
 
